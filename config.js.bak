@@ -1,0 +1,3 @@
+// config.js - กำหนดค่า Supabase Project URL และ Anon Key
+const SUPABASE_URL = "https://your-project-id.supabase.co";
+const SUPABASE_ANON_KEY = "your-anon-public-key-here";
